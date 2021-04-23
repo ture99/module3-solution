@@ -1,0 +1,24 @@
+h2{
+	text-align: center;
+
+}
+h1{
+	text-align:center;
+}
+
+*{  background-color:#778899;
+	box-sizing: border-box;
+
+}
+
+#lead{
+	background-color: #f5f5dc;
+	width:100%;
+	border:1px solid black;
+	position:relative;
+	margin-top:2%;
+}
+
+.visible-xs{
+	text-align: center;
+}
